@@ -9,7 +9,7 @@ use Alphagov\Notifications\Client;
 use Alphagov\Notifications\Exception as NotifyException;
 
 use GuzzleHttp\Psr7\Uri;
-use Http\Client\HttpClient as HttpClientInterface;
+use Psr\Http\Client\ClientInterface as HttpClientInterface;
 use GuzzleHttp\Psr7\Response;
 use Psr\Http\Message\RequestInterface;
 
