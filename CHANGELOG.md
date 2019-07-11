@@ -1,3 +1,8 @@
+## [2.0.0] - 2019-07-11
+### Changed
+* The Notify PHP Client now requires a minimum PHP version of 7.1.0
+* Replaced dependency `php-http/httplug` with `psr/http-client`
+
 ## [1.9.0] - 2019-01-28
 ### Changed
 
