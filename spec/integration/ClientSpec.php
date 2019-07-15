@@ -11,6 +11,7 @@ use Alphagov\Notifications\Exception\UnexpectedValueException;
 use Alphagov\Notifications\Exception\ApiException;
 
 use GuzzleHttp\Psr7\Uri;
+use Psr\Http\Client\ClientInterface as HttpClientInterface;
 use GuzzleHttp\Psr7\Response;
 use Psr\Http\Message\RequestInterface;
 
