@@ -1,5 +1,5 @@
 {
-  "name": "alphagov/notifications-php-client",
+  "name": "chrisforsey84/notifications-php-client",
   "description": "PHP client for GOV.UK Notifications",
   "minimum-stability": "stable",
   "license": "MIT",
